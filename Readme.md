@@ -14,6 +14,9 @@ Requirements:
 To install run `make`
 To run the test suites run `make test`
 
+Ensure your web service is running on the host in the .env file, and on the
+port defined in the env file
+
 ## Specification
 
 This is a webapp that allows users to play games of connect 4 against
